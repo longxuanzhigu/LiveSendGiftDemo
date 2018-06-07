@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="gift_b">
+        <item>gift_bbt_b.png</item>
+        <item>gift_bql_b.png</item>
+        <item>gift_lbjn_b.gif</item>
+        <item>gift_mgh_b.png</item>
+        <item>gift_ns_b.png</item>
+        <item>gift_sun_b.png</item>
+        <item>gift_ttq_b.png</item>
+        <item>gift_xrk_b.png</item>
+    </string-array>
+
+    <string-array name="gift_m">
+        <item>gift_bbt_m.png</item>
+        <item>gift_bql_m.png</item>
+        <item>gift_lbjn_m.gif</item>
+        <item>gift_mgh_m.png</item>
+        <item>gift_ns_m.png</item>
+        <item>gift_sun_m.png</item>
+        <item>gift_ttq_m.png</item>
+        <item>gift_xrk_m.png</item>
+    </string-array>
+
+
+    <string-array name="gift_s">
+        <item>gift_bbt_s.png</item>
+        <item>gift_bql_s.png</item>
+        <item>gift_lbjn_s.png</item>
+        <item>gift_mgh_s.png</item>
+        <item>gift_ns_s.png</item>
+        <item>gift_sun_s.png</item>
+        <item>gift_ttq_s.png</item>
+        <item>gift_xrk_s.png</item>
+    </string-array>
+
+</resources>
